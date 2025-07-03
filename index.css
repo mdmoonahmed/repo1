@@ -1,0 +1,44 @@
+* {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+#p2 {
+    color: rgba(0, 0, 0, 0.74);
+    font-size: 20px;
+    font-weight: bolder;
+    border: 20px solid rgb(243, 163, 210);
+    background-color: rgb(173, 199, 216);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px rgb(146, 93, 139);
+    margin: 50px;
+}
+.official {
+    display: inline-block;
+    color: red;
+    font-family: cursive;
+    text-shadow: 2px 2px 5px rgb(53, 47, 52);
+    background: transparent;
+    
+}
+.header {
+    height: 500px;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(11, 67, 253);
+    background-image: url('https://imgs.search.brave.com/j1R5Af9NKgfFm2f3aGRbFROb3YtK9CpDuM0mFtIhKrE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvbWVz/c2ktYXJnZW50aW5h/LWZvb3RiYWxsLXN0/YXItMGppMzRqaGs0/b2JxdDJ3ay5qcGc');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    padding: 20px;
+    display: flex;
+}
+.title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-flex;
+    margin: 50px;
+    
+}
